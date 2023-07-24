@@ -10,4 +10,6 @@ https://pragya888.github.io/CHATBOT/
 <ol>Real-time responses.</ol>
 <ol>Simple and lightweight design.</ol>
 <h1>Insight</h1>
-[Screenshot (2)](https://github.com/pragya888/CHATBOT/assets/78594510/2292759d-9e44-4987-a9ba-5c1b6cd9b41b)
+
+
+![Screenshot (1)](https://github.com/pragya888/CHATBOT/assets/78594510/1723ec46-dd50-4566-9b3c-b1acd5c2553b)
