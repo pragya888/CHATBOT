@@ -11,3 +11,4 @@ https://pragya888.github.io/CHATBOT/
 <ol>Simple and lightweight design.</ol>
 <h1>Insight</h1>
 
+![Screenshot (1)](https://github.com/pragya888/CHATBOT/assets/78594510/24a12d96-de7f-4ddb-ae42-99d61c4e7ef9)
